@@ -1,0 +1,2 @@
+python projector_z.py --ckpt checkpoints/stylegan-1024px-new.model --files ./imgs_origin/ --step 1000 --results output/ --noise_regularize 10000 --size 1024
+python projector_w.py --ckpt checkpoints/stylegan-1024px-new.model --files ./imgs_origin/ --step 1000 --results output/ --noise_regularize 10000 --size 1024 
