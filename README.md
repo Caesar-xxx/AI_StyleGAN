@@ -9,4 +9,6 @@
 ![Z2Wsex-ezgif com-video-to-gif-converter (3)](https://github.com/Caesar-xxx/AI_StyleGAN/assets/73376073/43ed2dc5-673a-4716-aaa5-af3b4152e7dd)  
  ## Z to W smile
 ![Z2Wsmile-ezgif com-video-to-gif-converter (2)](https://github.com/Caesar-xxx/AI_StyleGAN/assets/73376073/9dd3a94b-2778-41f5-a08c-d270f9fdbb03)
-   
+
+## 重建  
+![ezgif com-video-to-gif-converter](https://github.com/Caesar-xxx/AI_StyleGAN/assets/73376073/5acdeda8-c2aa-427e-ad30-1d7dd6e18c2a)
